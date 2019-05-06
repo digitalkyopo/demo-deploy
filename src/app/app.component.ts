@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'demo-deploy';
+  title = 'd e m o - d e p l o y (this has been brought to you by interpolation)';
 }
